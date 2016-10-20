@@ -1,7 +1,7 @@
 # Site settings
 title: Kingdom of dreams and fntasy|梦与狂想的王国
 SEOTitle: Kingdom of dreams and fntasy|梦与狂想的王国
-header-img: img/home-bg.jpg
+header-img: img/home_wallpaper.jpg
 email: huyajie911@163.com
 description: "一个算是梦开始的地方，一个小小的不被人发现的小窝，一个属于我们的地方"
 keyword: "胡亚捷，李笑涵，大脸，太川，一个学生物的程序猿"
@@ -71,7 +71,7 @@ ga_domain: applehan.org
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "我在未来等你"
-sidebar-avatar: /img/home_touxiang.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/home_timg.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
