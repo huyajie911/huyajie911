@@ -3,7 +3,7 @@ layout:      post
 title:       "终于迈出了梦想的第一步"
 subtitle:    "\"有个可以随便写写的小窝啦\""
 date:        2016-10-21 19:24:00
-auther:      "Hu"
+author:      "Hu"
 header-img:  "img/post-bg-first.jpg"
 catalog: true
 tags:
