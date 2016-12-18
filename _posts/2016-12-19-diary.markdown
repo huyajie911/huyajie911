@@ -2,7 +2,7 @@
 layout:      post
 title:       "偷工减料的随笔絮语"
 subtitle:    "\"总结？日志？\""
-date:        2016-11-11 19:07:00
+date:        2016-12-19 1:22:00
 author:      "Hu"
 header-img:  "img/diary-bg.jpg"
 catalog: true
